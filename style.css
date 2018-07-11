@@ -1,0 +1,47 @@
+body, html{
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+ background-color: #f2fdff;
+ text-decoration: none;
+ font-family: 'Pacifico', cursive;
+ font-size: 24px;
+ font-style: italic;
+ font-weight: 100;
+}
+
+a:hover {
+ background-color: #9ad4d6;
+}
+
+h3{
+  color: lightgrey;
+}
+
+p{
+  font-family: "EB Garamond", serif;
+}
+
+.header{
+  width: 100%;
+  background-image: url(https://images.unsplash.com/photo-1529305190382-4bf1969eafd1?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1000&h=500&fit=crop&ixid=eyJhcHBfaWQiOjF9&s=caab038cfceb77b80f3a2194ffff9dc2);
+}
+
+.header h1, .header h2{
+  color: white;
+}
+
+.center{
+  width: 50%;
+  margin:auto;
+  padding: 80px 0;
+}
+.text{
+  width: 600px;
+  margin: auto;
+}
+
+
